@@ -1,0 +1,15 @@
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/bin/Debug/net9.0/WorkoutPlanner.Data.deps.json
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/bin/Debug/net9.0/WorkoutPlanner.Data.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/bin/Debug/net9.0/WorkoutPlanner.Data.pdb
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/bin/Debug/net9.0/WorkoutPlanner.Core.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/bin/Debug/net9.0/WorkoutPlanner.Core.pdb
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.csproj.AssemblyReference.cache
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.AssemblyInfoInputs.cache
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.AssemblyInfo.cs
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.csproj.CoreCompileInputs.cache
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutP.9F7A0922.Up2Date
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/refint/WorkoutPlanner.Data.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/WorkoutPlanner.Data.pdb
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Data/obj/Debug/net9.0/ref/WorkoutPlanner.Data.dll

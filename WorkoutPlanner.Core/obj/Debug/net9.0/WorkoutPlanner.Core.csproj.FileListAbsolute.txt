@@ -1,0 +1,11 @@
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/bin/Debug/net9.0/WorkoutPlanner.Core.deps.json
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/bin/Debug/net9.0/WorkoutPlanner.Core.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/bin/Debug/net9.0/WorkoutPlanner.Core.pdb
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.AssemblyInfoInputs.cache
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.AssemblyInfo.cs
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.csproj.CoreCompileInputs.cache
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/refint/WorkoutPlanner.Core.dll
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/WorkoutPlanner.Core.pdb
+/Users/marcolinocrea/Library/CloudStorage/OneDrive-EastTennesseeStateUniversity/1260 - projects/project-4-marcoCrea951/WorkoutPlanner.Core/obj/Debug/net9.0/ref/WorkoutPlanner.Core.dll

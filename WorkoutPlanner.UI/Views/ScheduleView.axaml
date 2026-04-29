@@ -1,0 +1,26 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="WorkoutPlanner.UI.Views.ScheduleView">
+
+    <StackPanel Margin="20">
+
+        <TextBlock Text="Schedule Workout"
+                   FontSize="20"/>
+
+        <DatePicker Name="DatePicker"
+                    Margin="0,10"/>
+
+        <ComboBox Name="WorkoutDropdown"
+                  Margin="0,10"/>
+
+        <Button Content="Assign Workout"
+                Click="Assign_Click"
+                Margin="0,10"/>
+
+        <ListBox Name="ScheduleList"
+                 Height="200"
+                 Margin="0,10"/>
+
+    </StackPanel>
+
+</UserControl>

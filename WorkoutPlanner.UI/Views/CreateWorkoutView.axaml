@@ -1,0 +1,41 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="WorkoutPlanner.UI.Views.CreateWorkoutView">
+
+    <StackPanel Margin="20">
+
+        <TextBlock Text="Create Workout"
+                   FontSize="20"/>
+
+        <TextBox Name="WorkoutNameBox"
+                 Watermark="Workout Name"
+                 Margin="0,10"/>
+
+        <TextBox Name="ExerciseNameBox"
+                 Watermark="Exercise Name"
+                 Margin="0,10"/>
+
+        <TextBox Name="SetsBox"
+                 Watermark="Sets"
+                 Margin="0,10"/>
+
+        <TextBox Name="RepsBox"
+                 Watermark="Reps"
+                 Margin="0,10"/>
+
+        <TextBox Name="WeightBox"
+                 Watermark="Weight"
+                 Margin="0,10"/>
+
+        <Button Content="Add Exercise"
+                Margin="0,10"/>
+
+        <ListBox Name="ExerciseList"
+                 Height="150"/>
+
+        <Button Content="Save Workout"
+                Margin="0,10"/>
+
+    </StackPanel>
+
+</UserControl>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "WorkoutPlanner.Data/1.0.0": {
+        "dependencies": {
+          "WorkoutPlanner.Core": "1.0.0"
+        },
+        "runtime": {
+          "WorkoutPlanner.Data.dll": {}
+        }
+      },
+      "WorkoutPlanner.Core/1.0.0": {
+        "runtime": {
+          "WorkoutPlanner.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkoutPlanner.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkoutPlanner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
